@@ -9,7 +9,7 @@ Performed Exploratory analysis using python to explore The Student Performance D
 
 ## Question Asked
 
-The number of students attending various schools
-The amount of time students study
-Number of failures among students
-How guardians various occupation affects students
+- The number of students attending various schools
+- The amount of time students study
+- Number of failures among students
+- How guardians various occupation affects students
